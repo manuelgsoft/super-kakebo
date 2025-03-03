@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Backend for Super Kakebo, a minimalist and intuitive web app designed to help users manage their personal finances using the traditional Japanese Kakeibo budgeting method.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Antonio Gómez Merino",
+  "license": "ISC"
+}
